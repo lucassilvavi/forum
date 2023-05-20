@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lucassilvavi/forum/issues"
   },
-  "homepage": "https://github.com/lucassilvavi/forum#readme"
+  "homepage": "https://github.com/lucassilvavi/forum#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
 }
